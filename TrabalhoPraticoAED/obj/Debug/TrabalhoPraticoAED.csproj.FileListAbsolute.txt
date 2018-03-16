@@ -1,0 +1,9 @@
+c:\users\crisl\onedrive\documentos\visual studio 2015\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\bin\Debug\TrabalhoPraticoAED.exe.config
+c:\users\crisl\onedrive\documentos\visual studio 2015\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\bin\Debug\TrabalhoPraticoAED.exe
+c:\users\crisl\onedrive\documentos\visual studio 2015\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\bin\Debug\TrabalhoPraticoAED.pdb
+c:\users\crisl\onedrive\documentos\visual studio 2015\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\obj\Debug\TrabalhoPraticoAED.exe
+c:\users\crisl\onedrive\documentos\visual studio 2015\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\obj\Debug\TrabalhoPraticoAED.pdb
+C:\Users\Douglas\Documents\Visual Studio 2017\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\bin\Debug\TrabalhoPraticoAED.exe.config
+C:\Users\Douglas\Documents\Visual Studio 2017\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\obj\Debug\TrabalhoPraticoAED.exe
+C:\Users\Douglas\Documents\Visual Studio 2017\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\obj\Debug\TrabalhoPraticoAED.pdb
+C:\Users\crisl\OneDrive\Documentos\Visual Studio 2015\Projects\TrabalhoPraticoAED\TrabalhoPraticoAED\obj\Debug\TrabalhoPraticoAED.csprojResolveAssemblyReference.cache
